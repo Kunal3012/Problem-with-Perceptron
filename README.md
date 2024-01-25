@@ -24,19 +24,20 @@ We attempted to train three perceptron models (one each for OR, AND, and XOR) us
 #### OR Operation
 - Coefficients: [2.0, 2.0]
 - Intercept: -1.0
-- Decision Boundary:   ![OR Decision Boundary](images\or.png)
+- Decision Boundary:   ![OR Decision Boundary](https://github.com/Kunal3012/Problem-with-Perceptron/blob/main/images/or.png)
 
 
 #### AND Operation
 - Coefficients: [2.0, 2.0]
 - Intercept: -2.0
-- Decision Boundary:   ![AND Decision Boundary](https://github.com/Kunal3012/Problem-with-Perceptron/blob/main/images/and.png)
+- Decision Boundary:   
+![AND Decision Boundary](https://github.com/Kunal3012/Problem-with-Perceptron/blob/main/images/and.png)
 
 
 #### XOR Operation
 - Coefficients: [0.0, 0.0]
 - Intercept: 0.0
-- Decision Boundary:   ![XOR Decision Boundary](images\xor.png)
+- Decision Boundary:   ![XOR Decision Boundary](https://github.com/Kunal3012/Problem-with-Perceptron/blob/main/images/xor.png)
 
 
 ## Problem with Perceptron for XOR
